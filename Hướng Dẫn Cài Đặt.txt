@@ -1,0 +1,20 @@
+*****************************************
+*										*
+*		PHẦN MỀM QUẢN LÝ NHÂN SỰ		*
+*		Copyright 2015 By Group 3		*
+*										*
+*****************************************
+
+Hường Dẫn Cài Đặt Ứng Dụng.
+
++ Bước 1: Mở file QLNS.sql trong thư mục Database bằng SQL SERVER. Sau đó bấm CTR+A để chọn hết và F5(Execute) để thực thi.
++ Bước 2: Mở project Nhom3_QuanLyNhanSu bằng Visual 2010 trở lên(Bấm double vào file Nhom3_QuanLyNhanSu.sln).
++ Bước 3: Run project(F5). 
+	
+	Tài khoản đăng nhập: 
+	+ Mã NV: NV01
+	+ Mật Khẩu: 123456
+	
+	hoặc
+	+ Mã NV: NV02
+	+ Mật Khẩu: 123456
