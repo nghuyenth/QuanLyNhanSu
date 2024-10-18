@@ -1,0 +1,92 @@
+D:\Winform\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.Properties.Resources.resources
+D:\Winform\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.csproj.GenerateResource.Cache
+D:\Winform\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Nhom3_QuanLyNhanSu.exe
+D:\Winform\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Nhom3_QuanLyNhanSu.pdb
+D:\Winform\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.exe
+D:\Winform\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.pdb
+D:\Winform\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmHome.resources
+D:\Winform\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FormConnect.resources
+D:\Winform\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FormStart.resources
+D:\Winform\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.csprojResolveAssemblyReference.cache
+D:\Winform\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmMain.resources
+D:\Winform\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmNhanVien.resources
+D:\Winform\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmLogin.resources
+D:\Winform\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmPhongBan.resources
+D:\Winform\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmChucVu.resources
+D:\Winform\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmDanToc.resources
+D:\Winform\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmTonGiao.resources
+D:\Winform\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmLuong.resources
+D:\Winform\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmDoiMatKhau.resources
+D:\Winform\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmTrinhDo.resources
+D:\Winform\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmThanNhan.resources
+D:\Winform\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmCMND.resources
+D:\Winform\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\RdlCompile.cache
+D:\Winform\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\RdlCompile.compiled
+D:\Winform\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.Reports.Frm_Report_NhanVien.resources
+D:\Winform\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.Reports.Frm_Report_ChucVu.resources
+D:\Winform\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.Reports.Frm_Report_PhongBan.resources
+D:\Winform\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.Reports.Frm_Report_LuongThucLanh.resources
+C:\Users\THOA\Desktop\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.exe
+C:\Users\THOA\Desktop\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.pdb
+C:\Users\THOA\Desktop\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.csprojResolveAssemblyReference.cache
+C:\Users\THOA\Desktop\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmChucVu.resources
+C:\Users\THOA\Desktop\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FormConnect.resources
+C:\Users\THOA\Desktop\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FormStart.resources
+C:\Users\THOA\Desktop\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmCMND.resources
+C:\Users\THOA\Desktop\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmDanToc.resources
+C:\Users\THOA\Desktop\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmDoiMatKhau.resources
+C:\Users\THOA\Desktop\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmHome.resources
+C:\Users\THOA\Desktop\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmLogin.resources
+C:\Users\THOA\Desktop\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmLuong.resources
+C:\Users\THOA\Desktop\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmMain.resources
+C:\Users\THOA\Desktop\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmNhanVien.resources
+C:\Users\THOA\Desktop\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmPhongBan.resources
+C:\Users\THOA\Desktop\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmThanNhan.resources
+C:\Users\THOA\Desktop\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmTonGiao.resources
+C:\Users\THOA\Desktop\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmTrinhDo.resources
+C:\Users\THOA\Desktop\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.Properties.Resources.resources
+C:\Users\THOA\Desktop\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.Reports.Frm_Report_ChucVu.resources
+C:\Users\THOA\Desktop\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.Reports.Frm_Report_LuongThucLanh.resources
+C:\Users\THOA\Desktop\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.Reports.Frm_Report_NhanVien.resources
+C:\Users\THOA\Desktop\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.Reports.Frm_Report_PhongBan.resources
+C:\Users\THOA\Desktop\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.csproj.GenerateResource.Cache
+C:\Users\THOA\Desktop\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\RdlCompile.cache
+C:\Users\THOA\Desktop\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\RdlCompile.compiled
+C:\Users\THOA\Desktop\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Nhom3_QuanLyNhanSu.exe
+C:\Users\THOA\Desktop\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Nhom3_QuanLyNhanSu.pdb
+C:\Users\NHAT MINH\Downloads\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Nhom3_QuanLyNhanSu.exe.config
+C:\Users\NHAT MINH\Downloads\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Nhom3_QuanLyNhanSu.exe
+C:\Users\NHAT MINH\Downloads\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Nhom3_QuanLyNhanSu.pdb
+C:\Users\NHAT MINH\Downloads\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\NHAT MINH\Downloads\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\NHAT MINH\Downloads\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\NHAT MINH\Downloads\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\NHAT MINH\Downloads\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.csproj.AssemblyReference.cache
+C:\Users\NHAT MINH\Downloads\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmChucVu.resources
+C:\Users\NHAT MINH\Downloads\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FormConnect.resources
+C:\Users\NHAT MINH\Downloads\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FormStart.resources
+C:\Users\NHAT MINH\Downloads\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmCMND.resources
+C:\Users\NHAT MINH\Downloads\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmDanToc.resources
+C:\Users\NHAT MINH\Downloads\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmDoiMatKhau.resources
+C:\Users\NHAT MINH\Downloads\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmHome.resources
+C:\Users\NHAT MINH\Downloads\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmLogin.resources
+C:\Users\NHAT MINH\Downloads\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmLuong.resources
+C:\Users\NHAT MINH\Downloads\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmMain.resources
+C:\Users\NHAT MINH\Downloads\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmNhanVien.resources
+C:\Users\NHAT MINH\Downloads\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmPhongBan.resources
+C:\Users\NHAT MINH\Downloads\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmThanNhan.resources
+C:\Users\NHAT MINH\Downloads\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmTonGiao.resources
+C:\Users\NHAT MINH\Downloads\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmTrinhDo.resources
+C:\Users\NHAT MINH\Downloads\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.Properties.Resources.resources
+C:\Users\NHAT MINH\Downloads\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.Reports.Frm_Report_ChucVu.resources
+C:\Users\NHAT MINH\Downloads\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.Reports.Frm_Report_LuongThucLanh.resources
+C:\Users\NHAT MINH\Downloads\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.Reports.Frm_Report_NhanVien.resources
+C:\Users\NHAT MINH\Downloads\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.Reports.Frm_Report_PhongBan.resources
+C:\Users\NHAT MINH\Downloads\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.csproj.GenerateResource.cache
+C:\Users\NHAT MINH\Downloads\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.csproj.CoreCompileInputs.cache
+C:\Users\NHAT MINH\Downloads\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.csproj.CopyComplete
+C:\Users\NHAT MINH\Downloads\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.exe
+C:\Users\NHAT MINH\Downloads\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.pdb
+C:\Users\pc\Documents\Nhom3_QuanLyNhanSu (2)\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\Nhom3_QuanLyNhanSu (2)\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.exe
+C:\Users\pc\Documents\Nhom3_QuanLyNhanSu (2)\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.pdb
